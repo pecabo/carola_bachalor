@@ -1,2 +1,2 @@
 # carola_bachalor
-Dokumente für Bachelor-Arbeot
+Dokumente für Bachelor-Arbeit
